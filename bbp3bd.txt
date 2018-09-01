@@ -2,3 +2,4 @@ Name: Brenda Phetsomphou
 UVA ID: bbp3bd
 
 I have taken Intro to Embedded (ECE 3430) with professor DeLong. I am proficient in Java, C, and Python. 
+I took this course becasue I am interested in cyber physical systems and want to broaden my knowledge of embedded systems and its applicatiobs. 
