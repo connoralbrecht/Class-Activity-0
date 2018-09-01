@@ -1,0 +1,12 @@
+Vivian Lin, vwl4ac
+
+I have taken Introduction to Embedded Computing (ECE 3430), where we used TI's
+MSP430 and Code Composer Studio. I completed projects related to interrupts,
+PWM, SPI, FSM, and DSP.  Outside of class, I have some experience with Arduino
+and interfacing with other components using SPI and CAN communications. I have
+more general programming experience with C++, Java, Python, and x86 assembly.
+
+My main interets are embedded systems and analog circuit design. In this class,
+I hope to gain practical and hands-on experience designing embedded systems from
+scratch. I would also like to become more familiar with RTOS and
+multi-threading.
