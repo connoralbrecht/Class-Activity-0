@@ -1,0 +1,5 @@
+Andrew Powell - awp6rd
+
+I have taken Intro to Embedded and have programmed in Code Composer for the MSP430 Microcontroller
+
+I am very interested in the Internet of Things and the possibilities such a network has when considering new technological innovations. Embedded Systems interest me greatly because they allow for many opportunities in both small and large scale projects. I hope this class strengthens my coding skills and opens me up to creative ideas in the world of embedded systems.
