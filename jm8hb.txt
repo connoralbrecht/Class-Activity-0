@@ -1,0 +1,9 @@
+Name: Justin Mooney 
+UVA ID: jm8hb
+Background: Intro to Embedded, internship using Microchip MCLV-2 dev board, coded using java, C, and Python
+
+During the summer, I worked as an intern and they gave me a Microchip MCLV-2 dev board to work with for a project.
+They wanted me to use it to determine the velocity of how fast a motor was spinning, and I greatly enjoyed 
+messing around with the circuit. The feeling of getting a circuit to do what you want is very fulfilling. I look
+forward to figuring out the circuit we will be using in class and sifting through the data sheets to find relevant
+information. I hope to gain more understanding with coding circuits because it is very fun and intriguing. 
