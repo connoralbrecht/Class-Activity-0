@@ -1,0 +1,4 @@
+Wenpeng Wang - ww2cg
+Ive taken introduction to embedded system courses back in my masters study, I used Gumstix boards and C for programming.
+I am interested in getting more knowledge of embedded system that might be helpful for my future research, I am interested in energy efficient networks in IOT.
+
