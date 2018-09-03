@@ -1,0 +1,10 @@
+Name: Josie Li
+UVA ID: jl9gf
+
+Background: 
+I have taken Intro to Embedded System (ECE 3430), Intro to Electromech Systems (SYS 2048).  I'm currently in Cyber-Physical System (SYS 3501). I programmed mainly in C++ and Java, while I have some knowledge in Python and RUST. I have used Linux Platform such as CentOS and Ubuntu and have experiences with using ROS for my intern. I have also programed for Arduino for Greenhouse Project with SYS 2048, and outside weather-copter project.
+
+Interests:
+I am interested in cyber physical system/security and internet of things. I would like to strengthen my understanding of SPI and interrupt handling in this course while also learn about RTOS and multi-threading. 
+
+
