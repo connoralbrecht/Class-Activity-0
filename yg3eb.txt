@@ -1,0 +1,5 @@
+Name: Yunfei Gu	
+UVA ID: yg3eb	
+Background in embedded system design: I have hardware design and software design (Driver program level, not including real time operating system). I have designed 4-wheel robot and 2-wheel self balancing robot control system and motor driver system using NXP Kinetis K60 MCU. And I aslo have experience designing environment monitoring system, High-Voltage electronic beam power system, and industrial gateway using STM32F4 series MCU. The Toolkit I have used are KEIL MDK and IAR fo ARM. The language I used for programming are Assembly language (rarely use) and C.
+My interests: I am interested in embedded system RTOS, especially in scheduling and multi-thread management parts. If it is possible, I would like to learn UCOSII by myself after I finished this course and gain the knowledgment of OS which is running on ARM. 
+

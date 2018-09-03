@@ -1,0 +1,6 @@
+Name: Eddie Russell
+UVA ID: ejr2jx
+Background:
+I took Intro to Embedded Systems last semester and I am a third year computer engineering student trying to get a little more background
+Interests:
+I am very interested in computer systems and modules that control automobiles and I also liked Intro to Embedded last semester. I am also interested in cyber security and would like to work on that with a mix of embedded systems in the future
