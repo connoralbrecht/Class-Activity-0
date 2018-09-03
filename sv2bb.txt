@@ -1,0 +1,6 @@
+Samyukta Venkat
+sv2bb
+Introduction to Embedded Systems @ UVA
+Code Composer Studio, C
+I'm interested in low power computing in distributed systems and I hope to do some cool projects.
+

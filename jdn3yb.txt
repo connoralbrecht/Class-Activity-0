@@ -1,0 +1,5 @@
+Name: Josh Neal
+ID: jdn3yb
+Background: Intro to Embedded Systems, Capstone work using MSP-430
+Expectations: I would like to gain a deeping understanding of embedded systems and gain tools to use in a possible career in the field.
+General interest are all in the feilds of electronics and programming including using devices to alter and assist the human body. 
