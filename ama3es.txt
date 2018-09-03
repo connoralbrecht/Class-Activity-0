@@ -1,0 +1,10 @@
+Ameen Ahmed, ama3es
+
+
+
+My background in embedded systems consists mostly of the Intro to Embedded Course that I took with Prof. Delong. The major project that we completed for that course was a visual acceleromteter that used a custom header board mounted on a TI MSP430. The header board contained a ring of LEDs, which we were tasked with programming to respond to the direction and tilt of the device.
+
+
+
+
+My academic interests are primarly working on full stack development, as well as embedded systems. I'm hoping to be able to go beyond what I learned in my intro class, so that I might be able to work on embedded systems projects independently.
