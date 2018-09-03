@@ -1,0 +1,7 @@
+Name:Xufeng Yuan
+ID:xy4jj
+
+I have not taken any Embedded system class, but I have taken computer architecture before.
+I programmed mainly in C and Python. 
+I am interested in this class because it can strength my coding skill. Since I never took 
+this kind of class before, I think I should work harder.
