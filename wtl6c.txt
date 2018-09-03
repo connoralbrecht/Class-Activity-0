@@ -1,0 +1,7 @@
+William Trace LaCour (wtl6c)
+
+I have taken Intro to Embedded with Todd Delong
+I also spent my summer programming the UVA Cubesat. 
+
+I am hoping to "git" some experience with larger programs. This would cover increasingly more complex programs as well
+as the organization of all components within the program and how to insure the accuracy of the program. 
