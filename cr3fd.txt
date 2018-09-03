@@ -1,0 +1,5 @@
+Cesar Roucco, cr3fd
+
+My background in embedded systems comes from the Intro to Embedded class with Professor Delong where we used the MSP430 micro controller. I programmed in C using Code Composer Studio. I have also worked with Java and Python.
+
+My interests lie in the fields of embedded systems and cyber-physical systems and I hope to get more low-level experience in programming embedded systems, debugging techniques as well as new technologies in the industry.
