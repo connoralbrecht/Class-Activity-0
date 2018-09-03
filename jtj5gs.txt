@@ -1,0 +1,7 @@
+Justin Vaughn Javier - jtj5gs
+
+I have taken Intro to Embedded systems.  
+I have worked an embedded project using a nanosatellite.
+
+I hope to gain the skillset from this class in order to work in the medical field creating embedded systems 
+that will help monitor the nervous system.  
