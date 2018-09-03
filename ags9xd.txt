@@ -11,7 +11,7 @@ beacon-following robots, a robotic arm for undergrad capstone, and website const
 Interests:
 I am very interested in learning more about cyber-physical systems and the Internet of Things. In 
 this class, I am hoping to dramatically improve my knowledge of coding in C to more efficiently 
-write programs for embedded processors I also want to learn more about timers and interrupt / 
+write programs for embedded processors. I also want to learn more about timers and interrupt / 
 event handlers and how they work. In addition, I am really hoping to become better at using 
 Github, as this class will be the first time that I have ever used it for anything besides a reference 
 for some of my side Arduino projects.
