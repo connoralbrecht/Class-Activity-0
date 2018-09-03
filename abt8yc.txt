@@ -1,0 +1,11 @@
+Agyakwa Tenkoarng, abt8yc
+
+
+Background:
+I've taken Intro to Embedded (ECE 3430), FPGA Lab (ECE 4501), CS 2150,
+and am currently taking Operating Systems (CS 4414). I've programmed
+in C++, VHDL, Python, and Java.
+
+Interests:
+I'm interested in the various ways embedded system can be made to be resilient,
+fast and secure.
