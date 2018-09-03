@@ -1,0 +1,5 @@
+Daniel Wu dw2qe
+
+I’ve taken the Introduction to Embedded Systems course at UVA where we leaned about basic embedded programming concepts. The class utilized the TI MSP430 microcontroller and used PWM, SPI and DSP. I have also previously worked on other projects using the Arduino platform in high school. Over the summer I contributed to a project involving a weather-controlled glider interfacing with several different components such as an accelerometer and servos.
+
+I am interested in writing software to directly interface with hardware such as firmware design or operating systems. I would like to learn more about operating system concepts and working with embedded systems on a larger scale.
