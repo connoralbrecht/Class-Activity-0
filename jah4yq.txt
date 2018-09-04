@@ -1,0 +1,11 @@
+Jamie Hayes jah4yq
+
+I've worked with embedded systems a few times before. Most recently I took Prof DeLong's
+intro to embedded class working with the MSP430. I've also used Arduino and Teensyduino
+for research projects in my undergrad studies at Washington and Lee. I'm also working on a
+multiple projects now programing beaglebones. As far as programming languages are concerned,
+I've used Python, Matlab, C, C++, JavaScript, and Java at varying degrees of familiarity.
+
+For this course I'm hoping to gained an increased confidence in working with embedded systems,
+and not be as reliant on those around me as I have in the past. I'd like to solidify the knowledge
+of embedded systems I already posses, and learn newer advanced topics.
