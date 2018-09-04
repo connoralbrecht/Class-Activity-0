@@ -1,0 +1,4 @@
+Mukundan Ram Mohan -mr4sz
+I have taken two embedded systems related courses in my undergraduate studies and the platforms used were Intel 8051 and MSP 430.
+I have also worked with industrial ECMs for hardware in loop simulation as a part of my job.
+I expect to learn the best design and coding practices for embedded systms from this course.
