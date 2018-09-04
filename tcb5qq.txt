@@ -1,0 +1,3 @@
+Talis Basham, tcb5qq
+I have taken ECE 3430, and CS 2150. I have used C programming for AVR and MSP430, as well as some Z80 assembly. I contributed a small patch to the memory management of an operating system for Z80 based TI calculators and have worked on many small projects with microcontroller dev boards.
+I'm interested to learn about the internals of RTOS's, and also about memory mapped system design. I look forward to working on the projects in this course and learning a new architecture.
