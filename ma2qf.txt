@@ -1,0 +1,12 @@
+Muhtasim Ahmed (Navid), ma2qf
+
+I've taken ECE 3430 where I have did class projects in MSP 430.
+We made a 2d potentiometer which measured gravity and involved a 
+lot of embedded concepts. I have some experience with Arduino boards.
+I'm proficient in C, C++, C#, Java. I have some SQL and Python experience.
+
+I'm interested in working with embedded systems in consumer electronics.
+I also enjoy messing around with Analog circuits and I'm currently
+learning RF circuits. I want to learn how to design more complex
+Embedded systems and possibly how devices communicate with networks
+(by FM, bluetooth, Wifi).
