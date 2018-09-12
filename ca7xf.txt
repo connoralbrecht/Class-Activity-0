@@ -1,0 +1,9 @@
+Connor Albrecht
+ca7xf
+I have taken Introduction to Embedded Computing Systems as well as Computer Architetcure and Design. I have experience with C, 
+C++, Java, Python and VHDL.
+
+Interests:
+I hope to further my knowledge of embedded systems and improve my skils coding in C. I am excited to work on designing and 
+creating a game for my final project. I also hope to use my knowledge from this course to improve my capstone project as much
+as possible.
